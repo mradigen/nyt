@@ -1,0 +1,10 @@
+#!/bin/bash
+
+title="theme:"
+
+typeset -A menu
+menu=(
+    [Cysis]="./.config/rofi/menus/switch-theme cysis"
+    [Nyt]="./.config/rofi/menus/switch-theme nyt"
+)
+

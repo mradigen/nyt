@@ -1,0 +1,11 @@
+#!/bin/bash
+
+case "${1}" in
+	"cysis") wal -i $HOME/Pictures/Wallpapers/cyberpunk0.jpeg
+	;;
+	"nyt") wal -i $HOME/Pictures/Wallpapers/nyt.jpg
+	;;
+esac
+
+bspc wm -r
+exec ~/.config/alacritty/fixtheme.sh ~/.config/alacritty/alacritty.yml

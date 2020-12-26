@@ -1,0 +1,27 @@
+background_opacity: 0.4
+colors:
+  bright:
+    black: '#8b8e89'
+    blue: '#82887D'
+    cyan: '#8A9187'
+    green: '#6C726A'
+    magenta: '#7F8980'
+    red: '#61665E'
+    white: '#c7cbc4'
+    yellow: '#7C837A'
+  normal:
+    black: '#0C0C0B'
+    blue: '#82887D'
+    cyan: '#8A9187'
+    green: '#6C726A'
+    magenta: '#7F8980'
+    red: '#61665E'
+    white: '#c7cbc4'
+    yellow: '#7C837A'
+  primary:
+    background: '#0C0C0B'
+    foreground: '#c7cbc4'
+font:
+  normal:
+    family: FuraMono NF
+  size: 11
