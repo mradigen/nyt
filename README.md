@@ -5,7 +5,8 @@ Dotfiles for my bspwm rice 'nyt'.
 
 ### Applications visible in screenshot above (from top left):
 
-- [polybar](https://github.com/polybar/polybar/) [top bar]
+- [bspwm](https://github.com/baskerville/bspwm) [window manager]
+- [polybar](https://github.com/polybar/polybar) [top bar]
 - [dunst](https://github.com/dunst-project/dunst) [notifications]
 - [alacritty](https://github.com/alacritty/alacritty) [terminal emulator]
 - [kakoune](https://github.com/mawww/kakoune) [text editor]
@@ -15,3 +16,9 @@ Dotfiles for my bspwm rice 'nyt'.
 - [vivaldi](https://github.com/mawww/kakoune) [web browser] (will upload config and settings in the future :D)
 - [neofetch](https://github.com/dylanaraps/neofetch) [terminal fetch for info]
 - [rofi](https://github.com/davatorium/rofi) [application opener]
+
+### Etc.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) [shell]
+- [feh](https://github.com/derf/feh) [image viewer and wallpaper setter]
+- [pywal](https://github.com/dylanaraps/pywal) [theme color generator from wallpaper]
+- [wallpaper](https://pixabay.com/photos/dreary-storm-mountains-drama-mood-4453740/)
