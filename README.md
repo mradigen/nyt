@@ -18,6 +18,7 @@ Dotfiles for my bspwm rice 'nyt'.
 - [rofi](https://github.com/davatorium/rofi) [application opener]
 
 ### Etc.
+- [compton](https://github.com/tryone144/compton) [compositor]
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) [shell]
 - [feh](https://github.com/derf/feh) [image viewer and wallpaper setter]
 - [pywal](https://github.com/dylanaraps/pywal) [theme color generator from wallpaper]
