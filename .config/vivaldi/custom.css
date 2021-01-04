@@ -1,0 +1,20 @@
+@import url('file:///home/aadivishnu/.cache/wal/colors.css');
+
+div {
+	--colorBg: var(--background);
+	--colorFg: var(--color3);
+	--colorHighlightBg: var(--color3);
+	--colorAccentBg: var(--color5);
+}
+
+#header {
+	display: none !important;
+}
+
+#tabs-container .toggle-trash {
+	display: none !important;
+}
+
+.newtab {
+	display: none;
+}
